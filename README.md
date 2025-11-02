@@ -162,9 +162,9 @@ The app automatically detects if the signing server is available:
 
 ## 🔒 Security Notes
 
-This is a demonstration app with a mock signing service. For production use:
+This is a demonstration app with a mock signing service. For production we can use:
 
-- Implement proper authentication
+- Implement proper authentication/authorization with Oauth2.0
 - Add file validation and sanitization
 - Use secure file storage (not local filesystem)
 - Implement rate limiting
