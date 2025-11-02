@@ -1,9 +1,9 @@
-# 📄 Mobile PDF Upload & Signing App
+# Mobile PDF Upload & Signing App
 
 A mobile-friendly web application that allows users to upload PDF documents, send them to a mock server for digital signing, and view the signed documents directly on their mobile devices.
 
 
-### ✅ Mobile Success Confirmation
+###  Mobile Success Confirmation
 
 The mobile PDF signing workflow has been **successfully tested and verified** on iPhone:
 
