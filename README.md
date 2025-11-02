@@ -114,7 +114,7 @@ The application is configured to be accessible from mobile devices on your local
 
 The mobile PDF signing workflow has been **successfully tested and verified** on iPhone:
 
-![Mobile PDF Signing Success](assets/.png)
+![Mobile PDF Signing Success](https://github.com/francoj22/document_upload_soft/blob/main/src/assets/Pdf_signer-1.png)
 
 
 ## 🔧 Project Structure
